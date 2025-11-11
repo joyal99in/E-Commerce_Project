@@ -1,3 +1,5 @@
+# 🧸 E-Commerce Dashboards
+
 ---
 
 ## **1. Project Title and Headline**
@@ -6,8 +8,10 @@
 
 Developed a **dynamic, interactive Power BI dashboard** to analyze:
 - Top-performing products  
+- Conversion paths  
 - Website traffic trends  
 - User behavior  
+- Traffic sources and page effectiveness  
 - Campaign performance  
 
 ---
