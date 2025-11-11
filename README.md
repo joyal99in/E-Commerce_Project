@@ -1,4 +1,4 @@
-# 🧸 E-Commerce Dashboards
+# 🧸 BunnyHugs Toy Store Dashboards
 
 ---
 
