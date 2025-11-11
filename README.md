@@ -80,14 +80,13 @@ As the company prepares for its next funding round, the **Analytics Team** was t
 
 ### **Business Impact**
 
-#### **Marketing Optimization**
 - Identified the most effective **marketing channels** and **frequent user journey paths**.  
-- Enabled the marketing team to **design targeted campaigns** and **optimize the website** for smoother customer experiences.
+- This enables the marketing team to **design targeted campaigns** and **optimize the website** for smoother customer experiences.
 
 #### **Sales Optimization**
-- Recommended **product combinations** to increase average order value.  
+- Identified top **product combinations** to increase average order value.  
 - Analyzed **refund rates** to detect quality or satisfaction issues.  
-- Supported **pricing and inventory decisions** based on product demand and performance.
+- Price analysis helps to make pricing decisions based on product demand and performance.
 
 ---
 
