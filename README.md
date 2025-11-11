@@ -1,6 +1,4 @@
-# 🧸 BunnyHugs Toy Store Dashboards
 
----
 
 ## **1. Project Title / Overview**
 
