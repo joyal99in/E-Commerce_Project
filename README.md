@@ -93,8 +93,10 @@ As the company prepares for its next funding round, the **Analytics Team** was t
 
 ## **6. Dashboard Screenshots**
 
+### **Website Traffic Dashboard**
+![Website Traffic Dashboard](https://github.com/joyal99in/E-Commerce_Project/blob/main/Website%20Traffic%20Dashboard.png)  
 
-![Website Traffic Dashboard](path/to/traffic_dashboard.png)  
+### **Sales Dashboard**
 ![Sales Performance Dashboard](https://github.com/joyal99in/E-Commerce_Project/blob/main/Sales%20Dashboard.png)
 
 ---
