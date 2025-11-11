@@ -49,7 +49,7 @@ The analysis utilized **six CSV files**:
 
 ---
 
-## **4. Business Context & Insights**
+## **4. Features/Highlights**
 
  **BunnyHugs Toy Store**, is an e-commerce startup specializing in **stuffed animal toys**.  
 As the company prepares for its next funding round, the **Analytics Team** was tasked by the **CEO** to:
@@ -67,16 +67,19 @@ As the company prepares for its next funding round, the **Analytics Team** was t
 
 ---
 
-### **Key Questions Answered**
-- Which marketing channels lead to the **highest conversion rate**?  
-- How do customers **interact with different website pages**?  
-- What are the **trends in website traffic and usage** over time?  
-- Which are the **top-performing and most refunded products**?  
-- What are the **most frequently cross-sold product combinations**?
+### **Key Visuals**
+
+- How do customers **navigate through the website** - Decomposition tree  
+- What are the **trends in website traffic and usage** over time - bar chart 
+- Which are the **top-performing and most refunded products** - bar chart
+- Compare the sales of **different products over time**  -line chart
+- What are the **most frequently cross-sold product combinations** - Matrix
+- Conversion Funnel - Waterfall chart
+- Sales Completed vs Sales returned ratio across different product - Stacked barchart
 
 ---
 
-## **5. Business Impact**
+###. Business Impact**
 
 ### **Marketing Optimization**
 - Identified the most effective **marketing channels** and **frequent user journey paths**.  
