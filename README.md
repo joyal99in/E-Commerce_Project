@@ -45,7 +45,7 @@ The analysis utilized **six CSV files**:
 | **website_sessions.csv** | One row per user website session |
 | **website_pageviews.csv** | One row per page viewed during a session |
 
-**Data Model:** Transactional **Snowflake Schema**
+**Data Model:** Transactional Snowflake Schema
 
 ---
 
