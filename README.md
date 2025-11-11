@@ -93,12 +93,9 @@ As the company prepares for its next funding round, the **Analytics Team** was t
 
 ## **6. Dashboard Screenshots**
 
-*(Insert Power BI dashboard images here)*  
-
-Example:
 
 ![Website Traffic Dashboard](path/to/traffic_dashboard.png)  
-![Sales Performance Dashboard](path/to/sales_dashboard.png)
+![Sales Performance Dashboard](https://github.com/joyal99in/E-Commerce_Project/blob/main/Sales%20Dashboard.png)
 
 ---
 
