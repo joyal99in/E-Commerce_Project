@@ -1,5 +1,3 @@
-# 🧸 E-Commerce Dashboards
-
 ---
 
 ## **1. Project Title and Headline**
@@ -8,10 +6,8 @@
 
 Developed a **dynamic, interactive Power BI dashboard** to analyze:
 - Top-performing products  
-- Conversion paths  
 - Website traffic trends  
 - User behavior  
-- Traffic sources and page effectiveness  
 - Campaign performance  
 
 ---
@@ -34,16 +30,17 @@ Two dashboards were created to present insights derived from in-depth analysis o
 
 ## **3. Data Source**
 
-The analysis utilized **six CSV files**, each representing a key transactional or behavioral dataset:
+The analysis utilized **six CSV files**:
 
 | File | Description |
 |------|--------------|
 | **orders.csv** | One row per completed order |
 | **order_items.csv** | One row per product item within an order |
 | **order_item_refunds.csv** | One row per refunded product item |
-| **products.csv** | Product catalog containing item details |
+| **products.csv** | Product catalog  |
 | **website_sessions.csv** | One row per user website session |
 | **website_pageviews.csv** | One row per page viewed in a session |
+
 
 **Data Model:** Transactional **Snowflake Schema**
 
@@ -51,8 +48,7 @@ The analysis utilized **six CSV files**, each representing a key transactional o
 
 ## **4. Business Context & Insights**
 
-### **Client Background**
-Our client, **BunnyHugs Toy Store**, is an e-commerce startup specializing in **stuffed animal toys**.  
+ **BunnyHugs Toy Store**, is an e-commerce startup specializing in **stuffed animal toys**.  
 As the company prepares for its next funding round, the **Analytics Team** was tasked by the **CEO** to:
 
 - Craft a **data-driven growth story** for potential investors.  
@@ -65,7 +61,6 @@ As the company prepares for its next funding round, the **Analytics Team** was t
 - Provide full visibility into **website traffic** and **sales performance**.  
 - Identify **top-performing products** and **cross-sell combinations**.  
 - Understand **customer journeys**, **traffic sources**, and **conversion paths**.  
-- Enable **marketing and sales teams** to make evidence-based strategic decisions.
 
 ---
 
@@ -82,12 +77,12 @@ As the company prepares for its next funding round, the **Analytics Team** was t
 
 ### **Marketing Optimization**
 - Identified the most effective **marketing channels** and **frequent user journey paths**.  
-- Enabled the marketing team to **design campaigns** and **optimize the website** for smoother customer experiences.
+- This enables the marketing team to **design campaigns** and **optimize the website** for smoother customer experiences.
 
 ### **Sales Optimization**
 - Recommended **preferred product combinations** to increase order value.  
-- Analyzed **refund rates** to detect product quality or satisfaction issues.  
-- Supported **pricing and inventory decisions** based on product demand and performance.
+- Analyzed **refund rates** to detect product quality issues.  
+- Support **pricing decisions** based on product demand and performance.
 
 ---
 
